@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "todo-app-letsgo": {
+      "hosting": {
+        "todo-app": [
+          "todo-app-letsgo"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "todo-app-letsgo"
+  }
+}
